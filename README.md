@@ -1,4 +1,4 @@
-# Quering Synapse Dedicated Pool DMV with Synapse DMV Reporter
+# Quering Synapse Dedicated Pool DMVs with Synapse DMV Reporter
 If you find yourself needing to frequently look into the dynamic management views of Dedicated SQL Pool to obtain details on how a specific query was being executed internally, this tool may be useful. It is a compilation of a solid set of frequently used DMV queries, packed into a single stored procedure.
 
 It is recommended to read the following documentation before using _synapse_dmv_reporter_:
